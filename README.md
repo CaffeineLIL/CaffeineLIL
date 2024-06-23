@@ -8,7 +8,7 @@
 
 
 <p align='left'>
-    Available Stacks<br>
+    Studying<br>
       <a href="https://github.com/CaffeineLIL">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
       </a>
